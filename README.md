@@ -10,7 +10,7 @@ The quickest way to get the clip is to buy it from our [Shapeways store](https:/
 - [iPhone Xs Max on Shapeways](https://www.shapeways.com/product/T5P8D6CJL/mirror-clip-iphone-xs-max)
 - [iPad Pro (2018) on Shapeways](https://www.shapeways.com/product/C5YMEQT9T/mirror-clip-ipad-pro-2018)
 - iPhone 11 :x:
-- iPhone 11 Pro :x:
+- iPhone 11 Pro (File available [here](https://github.com/prnthp/mirror-clip/raw/master/clips/iphone-11-pro.stl))
 - iPhone 11 Pro Max :x:
 
 This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store.
@@ -33,6 +33,8 @@ Direct Download
 
 [![Download for iPad Pro](https://user-images.githubusercontent.com/891664/59004428-71934380-87ce-11e9-8b96-3c66e5a52916.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/ipad-pro.stl)
 
+[Download for iPhone 11 Pro](https://github.com/prnthp/mirror-clip/raw/master/clips/iphone-11-pro.stl)
+
 Through Git
 ```
 git clone git@github.com:StandardCyborg/mirror-clip.git
@@ -47,6 +49,7 @@ Need a 3D viewer on your computer? Try [Meshlab](http://www.meshlab.net/)
 - :white_check_mark: iPhone Xs
 - :white_check_mark: iPhone Xs Max
 - :white_check_mark: iPad Pro (2018)
+- :white_check_mark: iPhone 11 Pro
 
 ## Printing Suggestions
 - This design requires high dimensional accuracy.
